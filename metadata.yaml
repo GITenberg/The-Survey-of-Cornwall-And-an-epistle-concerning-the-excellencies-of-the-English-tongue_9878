@@ -1,0 +1,29 @@
+_repo: The-Survey-of-Cornwall-And-an-epistle-concerning-the-excellencies-of-the-English-tongue_9878
+creator:
+  author:
+    agent_name: Carew, Richard
+    alias: Careus, Richardus
+    birthdate: 1555
+    deathdate: 1620
+    gutenberg_agent_id: '3184'
+    url: http://www.gutenberg.org/2009/agents/3184
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Carew_(antiquary)
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cornwall (England : County) -- Surveys'
+- !lcsh 'Cornwall (England : County) -- History -- Sources'
+- !lcsh 'Cornwall (England : County) -- Social life and customs'
+- !lcc 'DA'
+title: 'The Survey of Cornwall
+
+  And an epistle concerning the excellencies of the English tongue'
+url: http://www.gutenberg.org/ebooks/9878
