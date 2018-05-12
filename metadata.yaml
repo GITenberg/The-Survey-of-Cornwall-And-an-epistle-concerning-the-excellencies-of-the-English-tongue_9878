@@ -1,4 +1,8 @@
 _repo: The-Survey-of-Cornwall-And-an-epistle-concerning-the-excellencies-of-the-English-tongue_9878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carew, Richard
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3184
     wikipedia: http://en.wikipedia.org/wiki/Richard_Carew_(antiquary)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9878#The-Survey-of-Cornwall-And-an-epistle-concerning-the-excellencies-of-the-English-tongue
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
